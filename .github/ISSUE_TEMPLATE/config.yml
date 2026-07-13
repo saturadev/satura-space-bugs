@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a security vulnerability
+    url: https://github.com/saturadev/satura-space-bugs/security/advisories/new
+    about: Privately disclose a vulnerability. Never open a public issue for one.
+  - name: 💳 Account, subscription & billing
+    url: https://app.saturaspace.com
+    about: Manage your plan, licence and payments. Only file an issue here if the site itself is broken.
+  - name: 🌊 Satura Space
+    url: https://saturaspace.com
+    about: Download the latest build and read the docs.

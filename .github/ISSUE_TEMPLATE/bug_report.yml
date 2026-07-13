@@ -76,15 +76,12 @@ body:
     validations:
       required: true
 
-  - type: dropdown
+  - type: input
     id: os
     attributes:
       label: Operating system
-      options:
-        - macOS (Apple Silicon)
-        - macOS (Intel)
-        - Windows
-        - Other
+      description: The **Report a bug** button fills this in too.
+      placeholder: e.g. macOS 15.5 (Apple Silicon), or Windows 11 (build 26100, x64)
     validations:
       required: true
 

@@ -1,3 +1,5 @@
+**Bug reports and feature requests: [github.com/saturadev/satura-space-bugs](https://github.com/saturadev/satura-space-bugs)**
+
 <h1 align="center">Satura Space — Issue Tracker</h1>
 
 <p align="center">
